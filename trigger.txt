@@ -1,1 +1,1 @@
-postgres:15-alpine crpi-fifggh3laecj4yqk.cn-hangzhou.personal.cr.aliyuncs.com/zcstash/postgres:15-alpine
+m.daocloud.io/docker.io/library/postgres:15-alpine crpi-fifggh3laecj4yqk.cn-hangzhou.personal.cr.aliyuncs.com/zcstash/postgres:15-alpine
