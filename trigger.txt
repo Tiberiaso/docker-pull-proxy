@@ -1,1 +1,1 @@
-m.daocloud.io/docker.io/library/redis:6-alpine crpi-fifggh3laecj4yqk.cn-hangzhou.personal.cr.aliyuncs.com/zcstash/redis:6-alpine
+m.daocloud.io/docker.io/semitechnologies/weaviate:1.19.0 crpi-fifggh3laecj4yqk.cn-hangzhou.personal.cr.aliyuncs.com/zcstash/weaviate:1.19.0
