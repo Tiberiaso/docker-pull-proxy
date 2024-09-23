@@ -1,1 +1,1 @@
-m.daocloud.io/docker.io/langgenius/dify-sandbox:0.2.9 crpi-fifggh3laecj4yqk.cn-hangzhou.personal.cr.aliyuncs.com/zcstash/dify-sandbox:0.2.9
+m.daocloud.io/docker.io/ubuntu/squid:latest  crpi-fifggh3laecj4yqk.cn-hangzhou.personal.cr.aliyuncs.com/zcstash/squid:latest
